@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ПервоеТехЗаданиеЯлантис</string>
+    <string name="action_settings">Свойства</string>
+    <string name="title_activity_view">Активность</string>
+    <string name="name">Коммунальное хозяйство</string>
+    <string name="term_in_process">В работе</string>
+    <string name="created">Создано</string>
+    <string name="registered">Зарегестрировано</string>
+    <string name="solve_to">Решить до</string>
+    <string name="responcible">Ответственный</string>
+    <string name="created_date">25 февраля 2016</string>
+    <string name="registered_date">26 февраля 2016</string>
+    <string name="solve_to_date">29 февраля 2016</string>
+    <string name="responcible_name">Днепропетровский ГВК()</string>
+    <string name="description">Открытый люк (возле рекламного щита), район поворота 18 и 19 трамваев
+    на проспект Мира с Донецкого шоссе</string>
+    <string name="pressed_view">Нажато</string>
+
+    <array name="urls">
+        <item>http://u0.s.progorod11.ru/userfiles/picoriginal/img-20150410111146-435.jpg</item>
+        <item>http://varlamov.me/img/progulka18/19.jpg</item>
+        <item>https://img.myslo.ru/NewsImage/53/9b/539b94f2-411c-4ff0-95e7-ab36f8ed170c_1.jpg</item>
+    </array>
+</resources>

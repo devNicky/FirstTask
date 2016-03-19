@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FirstYalantisTask</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_view">ViewActivity</string>
+    <string name="name">Utilities</string>
+    <string name="term_in_process">In process</string>
+    <string name="created">Created</string>
+    <string name="registered">Registered</string>
+    <string name="solve_to">Solve to</string>
+    <string name="responcible">Responcible</string>
+    <string name="created_date">25 february 2016</string>
+    <string name="registered_date">26 february 2016</string>
+    <string name="solve_to_date">29 february 2016</string>
+    <string name="responcible_name">Dnipropetrovsk MVK()</string>
+    <string name="description">Opened manhole (near the billboard), on turning area of 18 and 19 trams
+     on avenue Mira from the Donetsk highway</string>
+    <string name="pressed_view">Pressed</string>
+    <array name="urls">
+        <item>http://u0.s.progorod11.ru/userfiles/picoriginal/img-20150410111146-435.jpg</item>
+        <item>http://varlamov.me/img/progulka18/19.jpg</item>
+        <item>https://img.myslo.ru/NewsImage/53/9b/539b94f2-411c-4ff0-95e7-ab36f8ed170c_1.jpg</item>
+    </array>
+</resources>

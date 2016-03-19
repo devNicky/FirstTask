@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ПершеТехЗавданяЯлантіс</string>
+    <string name="action_settings">Властивості</string>
+    <string name="title_activity_view">Ативність</string>
+    <string name="name">Комунальне господарство</string>
+    <string name="term_in_process">В роботі</string>
+    <string name="created">Створено</string>
+    <string name="registered">Зареєстровано</string>
+    <string name="solve_to">Вирішити до</string>
+    <string name="responcible">Відповідальний</string>
+    <string name="created_date">25 лютого 2016</string>
+    <string name="registered_date">26 лютого 2016</string>
+    <string name="solve_to_date">29 лютого 2016</string>
+    <string name="responcible_name">Дніпропетровський МВК()</string>
+    <string name="description">Відчинений люк (біля рекламного щита), район поворота 18 і 19 трамваїв
+    на проспект Миру з Донецького шоссе</string>
+    <string name="pressed_view">Натиснуто</string>
+
+    <array name="urls">
+        <item>http://u0.s.progorod11.ru/userfiles/picoriginal/img-20150410111146-435.jpg</item>
+        <item>http://varlamov.me/img/progulka18/19.jpg</item>
+        <item>https://img.myslo.ru/NewsImage/53/9b/539b94f2-411c-4ff0-95e7-ab36f8ed170c_1.jpg</item>
+    </array>
+</resources>
